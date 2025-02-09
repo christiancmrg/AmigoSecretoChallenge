@@ -23,7 +23,7 @@ Challenge creado por #AluraLatam que permite registrar nombres de amigos y reali
 
   - ✅ Restricción para que el input no este vacio.
   
-  ![Validación 3](assets/nombrevacio.jpg)
+  ![Validación 4](assets/nombrevacio.jpg)
 
 ## 🛠️ Tecnologías utilizadas
 - **HTML**: Estructura de la página web.

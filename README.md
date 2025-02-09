@@ -13,7 +13,7 @@ Challenge creado por #AluraLatam que permite registrar nombres de amigos y reali
   
   ![Validación 1](assets/iniciosinnombres.jpg)
   
-- ✅ Bloqueo del sorteo si hay texto en el input.
+- ✅ No permite iniciar el sorteo si hay algun nombre en la caja de texto.
   
   ![Validación 2](assets/inputlleno.jpg)
   
